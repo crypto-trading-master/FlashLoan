@@ -1,0 +1,23 @@
+{
+  "name": "flashloan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crypto-trading-master/FlashLoan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crypto-trading-master/FlashLoan/issues"
+  },
+  "homepage": "https://github.com/crypto-trading-master/FlashLoan#readme",
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
